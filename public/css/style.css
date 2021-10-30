@@ -1,0 +1,47 @@
+table {
+   color: white;
+   font-size: 15px;
+   font-family: Verdana, Tahoma, sans-serif;
+   text-align: center;
+}
+a:link {
+    background: white;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-width: 5px;
+    border-style: ridge;
+    border-top-color: white;
+    border-right-color: white;
+    border-bottom-color:white;
+    border-left-color: white; 
+}
+header {
+    background-color: #0072b5;
+}
+footer {
+    background-color: #0072b5;
+}
+nav {
+    background-color: #0072b5;
+}
+body {
+    background-color: #0072b5;
+}
+p {
+    color: white;
+    font-size: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+h1 {
+    color: white;
+    font-size: 15px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+form {
+    color: white;
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    background-color: #0072b5;
+    max-width: 500px;
+}
